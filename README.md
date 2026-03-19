@@ -49,6 +49,7 @@ Published on two schedules: on Mondays, a short version of the week's Substack p
 | Feb 24, 2026 | [The day AI reduced ticket volume, support became a high-risk function.](https://www.linkedin.com/pulse/day-ai-reduced-ticket-volume-support-became-high-risk-fernando-duarte-wvsic) |
 | Mar 5, 2026 | [Support Is No Longer an Answer Team. It Is a Verification Layer.](https://www.linkedin.com/pulse/support-longer-answer-team-verification-layer-fernando-duarte-26n5c) |
 | Mar 12, 2026 | [AI Did Not Shrink Support. It Raised the Bar for Who Succeeds.](https://www.linkedin.com/pulse/ai-did-shrink-support-raised-bar-who-succeeds-fernando-duarte-whtdc) |
+| Mar 19, 2026 | [Support Teams Should Not Only Verify AI. They Should Feed The Fix Back Into The System.](https://www.linkedin.com/pulse/support-teams-should-only-verify-ai-feed-fix-back-system-duarte-v6ryc) |
 
 ---
 
